@@ -43,11 +43,11 @@ Build a Random User App using ReactJS.
 
 ### At the end of the project, following topics are to be covered;
 
-- HTML
+- HTML,
 
-- CSS
+- CSS,
 
-- JS
+- JS,
 
 - ReactJS
 
